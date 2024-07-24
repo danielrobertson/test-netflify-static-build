@@ -1,13 +1,13 @@
 /* Universal Styles */
 * {
-    font-family: sans-serif;
-    color: white
+  font-family: sans-serif;
+  color: white;
 }
 
 body {
-    background-image: url("atx-skyline-sunset.jpeg");
-    background-color: black;
-    background-size: cover; /* Resize the background image to cover the entire container */
+  background-image: url('../../assets/atx-skyline-sunset.jpeg');
+  background-color: black;
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 /* Home Page Styles */
@@ -16,5 +16,5 @@ body {
 .index_h3,
 .index_h4,
 p {
-    text-align: center;
+  text-align: center;
 }
